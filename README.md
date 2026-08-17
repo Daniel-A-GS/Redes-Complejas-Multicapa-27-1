@@ -4,7 +4,7 @@
 
 - **Profesor titular:** Dr. Eduardo Jacobo Villegas 
 - **Profesor adjunto:** [Daniel A. García Sánchez](https://www.linkedin.com/in/daniel-garcia-data-analyst/) 
-- **Profesor adjunto:** Brayan
+- **Profesor adjunto:** Brayan Guerra López.
 
 ## 🎯 Enfoque 
 - Aprenderás a modelar datos con distintos modelos de redes complejas utilizando Python.
