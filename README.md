@@ -26,8 +26,8 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 
 ### Temario por Semanas:
 
-* **S02:** EDA con Pandas utilizando el  `|||` Aspectos Básicos de Python y Numpy.
-* **S03:** Consumo de APIs `|||` Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html).
+* **S02:** APIs  `|||` Aspectos Básicos de Python y Numpy.
+* **S03:** EDA con Pandas `|||` Introducción a [NetworkX](https://networkx.org/documentation/stable/reference/index.html).
 * **S04:** Métricas en NetworkX  `|||` Redes aleatorias de Erdös-Rényi.
 * **S05:** **Modelos de Redes:** Redes de Mundo pequeño `|||` Redes de Libre escala.
 * **S06:** Percolación (Artículo de referencia) `|||` Algoritmo de Visibilidad para series de tiempo.
