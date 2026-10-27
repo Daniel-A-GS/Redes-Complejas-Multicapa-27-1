@@ -32,7 +32,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S05:** **Modelos de Redes:** Redes de Mundo pequeño `|||` Redes de Libre escala.
 * **S06:** Percolación (Artículo de referencia) `|||` Algoritmo de Visibilidad para series de tiempo.
 * **S07:** **Comunidades:** Algoritmo Louvain `|||` Infomap y Map Equation.
-* **S08:** Discución de ([Structural reducibility of multilayer networks](https://www.nature.com/articles/ncomms7864)) `|||` Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
+* **S08:** Discución de ([Bayesian stochastic blockmodeling](https://arxiv.org/pdf/1705.10225)) `|||` Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
 * **S09:** Discución de ([Network Reconstruction via the minimum description length (MDL) principle](https://arxiv.org/pdf/2405.01015)) `|||` Bootstrapping y Caminatas aleatorias en Py3plex.
 * **S10:** Discución de ([Graphs are maximally expressive for High Order Network interactions](https://arxiv.org/pdf/2602.16937)) `|||` Modelos epidemiológicos SIR e implementación en Py3plex.
 * **S11:** Examen `|||` Redes temporales con Teneto y métricas temporales.
