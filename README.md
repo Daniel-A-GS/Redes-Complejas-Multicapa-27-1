@@ -34,11 +34,11 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 * **S07:** **Comunidades:** Algoritmo Louvain `|||` Infomap y Map Equation.
 * **S08:** Discusión de ([Structural reducibility of multilayer networks](https://www.nature.com/articles/ncomms7864)`|||` Introducción y métricas multicapa con [pymnet](https://mnets.github.io/pymnet/index.html).
 * **S09:** Discusión de ([Bayesian stochastic blockmodeling](https://arxiv.org/pdf/1705.10225)) `|||` Bootstrapping y Caminatas aleatorias en Py3plex.
-* **S10:** Discusión de ([Graphs are maximally expressive for High Order Network interactions](https://arxiv.org/pdf/2602.16937)) `|||` Modelos epidemiológicos SIR e implementación en Py3plex.
+* **S10:** Comunidades Multicapa: Modularidad y Consenso `|||` Modelos epidemiológicos SIR e implementación en Py3plex.
 * **S11:** Examen `|||` Redes temporales con Teneto y métricas temporales.
-* **S12:** Sincronización de Kuramoto en complejos simpliciales. `|||` Temporal Communities through Trajectory Clustering (TCTC).
-* **S13:** Algoritmo BallMapper `|||` Introducción a Redes de Orden Superior (HONs) con [XGI](https://xgi.readthedocs.io/en/latest/index.html).
-* **S14:** Homología de persistencia: Discución de ([Identifying Key Genes in Cancer Networks Using Persistent Homology](https://www.nature.com/articles/s41598-025-87265-4)) `|||`
+* **S12:** Discusión de ([Graphs are maximally expressive for High Order Network interactions](https://arxiv.org/pdf/2602.16937)) `|||` Temporal Communities through Trajectory Clustering (TCTC).
+* **S13:** Sincronización de Kuramoto en complejos simpliciales. `|||` Introducción a Redes de Orden Superior (HONs) con [XGI](https://xgi.readthedocs.io/en/latest/index.html).
+* **S14:** Algoritmo BallMapper `|||`
   
 ## 📌 Notas
 Este repositorio está diseñado como apoyo a las clases presenciales.
